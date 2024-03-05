@@ -1,8 +1,12 @@
 
 # Netflix-GPT
 
+- // Use Formik for form validation we are not using in case large forms use it
+
 - Create React app
 - Configured TailwindCSS
+- Header
+- Login form
 
 # Features
 

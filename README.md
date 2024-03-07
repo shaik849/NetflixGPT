@@ -13,9 +13,19 @@
 - Firebase setup
 - Deploying App in production using Firebase
 - Create Sign up using Firebase 
-- Create redux store user slice
+- Create Redux store user slice
 - Implemented sign out
-- updated profile
+- Updated profile
+- Bug fix in redirect in login and browser
+- Bug fix in Signup username and profile
+- Unsubcibed on onAuthStateChange component
+- Registered TMDN got the API
+- Get the list of now playing movies from API
+- Get Data from video api
+- Created a custom hook for list of movies
+- fetch data for tailor video
+- updated the store with video data
+- Embaded the youtube video mad mutue and auto play added styleing using tailwind
 
 # Features
 

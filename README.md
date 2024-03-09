@@ -36,3 +36,33 @@
 - TMDB Image CDN URL
 - Made the Browsre page amazing with Tailwind CSS
 - usePopularMovies Custom hook
+- GPT Search Page
+- GPT Search Bar
+- Multi-language Feature in our App
+- Get Open AI Api Key
+- Gpt Search API Call
+- fetched gptMoviesSuggestions from TMDB
+- created gptSlice added data
+- Resused Movie List component to make movie suggestion container
+- Memoization
+- Added .env file
+- Adding .env file to gitignore
+- Made our Site Responsive
+
+
+# Features
+Login/Sign Up
+Sign In /Sign up Form
+redirect to Browse Page
+Browse (after authentication)
+Header
+Main Movie
+Tailer in Background
+Title & Description
+MovieSuggestions
+MovieLists * N
+NetflixGPT
+Search Bar
+Movie Suggestions
+Project Setup
+Before starting the project please add .env file and add TMDB and OPENAI KEY into it.
